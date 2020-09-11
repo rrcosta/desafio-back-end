@@ -1,0 +1,15 @@
+current directory: /Users/rafaelcosta/enterprises/R2C/projects/rails/desafio-back-end/desafio-back-end/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.4.8/ext/bootsnap
+/Users/rafaelcosta/.rbenv/versions/2.7.1/bin/ruby -I /Users/rafaelcosta/.rbenv/versions/2.7.1/lib/ruby/site_ruby/2.7.0 -r ./siteconf20200910-22238-6x01l6.rb extconf.rb
+creating Makefile
+
+current directory: /Users/rafaelcosta/enterprises/R2C/projects/rails/desafio-back-end/desafio-back-end/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.4.8/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/rafaelcosta/enterprises/R2C/projects/rails/desafio-back-end/desafio-back-end/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.4.8/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/rafaelcosta/enterprises/R2C/projects/rails/desafio-back-end/desafio-back-end/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.4.8/ext/bootsnap
+make "DESTDIR=" install
+/usr/local/bin/ginstall -c -m 0755 bootsnap.bundle ./.gem.20200910-22238-1uf18m/bootsnap
